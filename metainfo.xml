@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="C5DDC9D9-A968-4187-A5BF-8C1AF78FEBEB" version="0">
+	<info>
+		<title>2022-06-17 Malola Education Online Exam-26 Mains Level II</title>
+		<description/>
+	</info>
+	<files index="id25" thumbnail="id21" totalSize="3628768">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/html5-unsupported.html</file>
+		<file id="id10">data/html5.png</file>
+		<file id="id11">data/images/img-1b3e2502debf9b0c928ed41109775aa737643b78.PNG</file>
+		<file id="id12">data/images/img-225877b96513c4f06efe39f855da25e8094aa26d.PNG</file>
+		<file id="id13">data/images/img-2757bbe6d69ea04e0ced15be74aba4bfbe1f8d69.PNG</file>
+		<file id="id14">data/images/img-4fbfee0d91e696d95238d91f05c8f482cc476458.png</file>
+		<file id="id15">data/images/img-5f30eec84611fc82b915a2a423635c72cf7c0fd7.PNG</file>
+		<file id="id16">data/images/img-a8687edd35fcf4f05bfde8e1346cfb2306e750d6.jpg</file>
+		<file id="id17">data/images/img-be9634117c9e0580f770b0cf1ad537774a2c3de6.PNG</file>
+		<file id="id18">data/images/img-ef36aad7861eaf161db4701a685503776b8571ca.PNG</file>
+		<file id="id19">data/ismplayer/app_store2x.png</file>
+		<file id="id20">data/ismplayer/play.svg</file>
+		<file id="id21">data/ismplayer/preview.png</file>
+		<file id="id22">data/ismplayer/style.css</file>
+		<file id="id23">data/ismplayer/style_mini.css</file>
+		<file id="id24">data/player.js</file>
+		<file id="id25">index.html</file>
+		<file id="id26">ismplayer.html</file>
+		<file id="id27">preview.png</file>
+	</files>
+</presentation>
+
